@@ -60,7 +60,6 @@ class WeatherModel {
 }
 
 Widget getAnimation(int condition) {
-  condition = 590;
   if (condition < 300) {
     return WeatherBg(
         weatherType: WeatherType.cloudyNight, width: 400, height: 800);
