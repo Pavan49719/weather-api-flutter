@@ -1,5 +1,5 @@
 # weather-api-flutter
-
+Weather App which updates it's theme according to the weather at that location. 
 ### Screenshots
 ![image](https://user-images.githubusercontent.com/90468365/146064202-594387f3-f2b4-42e6-8b55-58215c109502.png)
 ![image](https://user-images.githubusercontent.com/90468365/146063938-1fdb5f32-c142-420d-befe-5a88958c089a.png)
